@@ -1,11 +1,9 @@
-## Hi there 👋
+## Hi, it's Utkarsh Mishra
 
-
-**Utkarsh-creates/Utkarsh-creates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on: Web Development
 - 🌱 I’m currently learning: css
-- 💬 Ask me about: Blender
+- 💬 Ask me about: Blender [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 - ⚡ Fun fact: I can make you a product :)
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/theutkarsh_mishra) 
