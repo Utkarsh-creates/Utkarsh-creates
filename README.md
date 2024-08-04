@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: Web Development
 - 🌱 I’m currently learning: css
-- 💬 Ask me about: Blender [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+- 💬 Ask me about: Blender [![My Skills](https://skillicons.dev/icons?i=blender&perline=3)](https://skillicons.dev)
 - ⚡ Fun fact: I can make you a product :)
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/theutkarsh_mishra) 
